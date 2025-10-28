@@ -2,7 +2,7 @@
 
 ### A Software Engineer student from University of Auckland
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeraych&label=Profile views&color=0e75b6&style=flat" alt="Jeraych" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Jeraych)
 
 - 🔭 I'm currently working on **Personal-Study-Resource-Manager**
 - 🌱 I'm currently learning **JS, TS, React, Node.js, Next.js**
