@@ -4,8 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeraych)
 
-- 🔭 I'm currently working on **Personal-Study-Resource-Manager**
-- 🌱 I'm currently learning **JS, TS, React, Node.js, Next.js**
+- 🔭 I'm currently working on **Notess**
+- 🌱 I'm currently learning **JS, TS, React, Node.js, Next.js, Express.js, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
