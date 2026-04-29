@@ -1,20 +1,87 @@
 # Hi 👋, I'm Jeraych
 
-### A Software Engineer student from University of Auckland
+### Software Engineering student @ University of Auckland
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jeraych)
-
-- 🔭 I'm currently working on **Notess**
-- 🌱 I'm currently learning **JS, TS, React, Node.js, Next.js, Express.js, MongoDB**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/ByREvaK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ByREvaK" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeraych&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
+---
 
-<br>
+<table>
+<tr>
+<td width="55%">
 
-Created using [GitHub Profile README Generator](https://rahuldkjain.github.io/github-profile-readme-generator/)
+### 🚀 About Me
+
+- 🎓 Software Engineering student  
+- 💻 Full-stack development with MERN + Spring  
+- 🧠 Interested in backend systems, AI tools, and project management  
+- ⚡ Building real projects, not just localhosts
+
+&nbsp;
+</td>
+<td width="45%">  
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,spring,docker,git,postman,css,sass" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📝 Notess
+
+Full-stack MERN notes app with JWT authentication.
+
+**Tech:** React, Node.js, Express, MongoDB, JWT  
+**Deploy:** Vercel + Render  
+
+[Live Demo](https://notess-jeraychs-projects.vercel.app/) · [Repo](https://github.com/Jeraych/Notess)
+
+</td>
+<td width="50%">
+
+### 🤖 GRPO Coder
+
+Experimental RL fine-tuning project for structured code generation.
+
+**Tech:** Python, GRPO, LoRA, Unsloth, Hugging Face  
+**Focus:** reward design + code LLM training  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeraych&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeraych&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeraych" />
+</p>
+
+---
+
+<p align="center">
+  Created based on 
+  <a href="https://rahuldkjain.github.io/github-profile-readme-generator/">
+    GitHub Profile README Generator
+  </a>
+</p>
