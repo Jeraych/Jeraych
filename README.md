@@ -3,7 +3,7 @@
 ### Software Engineering student @ University of Auckland
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeraych&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Jeraych&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -69,12 +69,12 @@ Experimental RL fine-tuning project for structured code generation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeraych&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeraych&layout=compact&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeraych&layout=compact&theme=default&layout=compact" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeraych" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Jeraych&show_icons=true&theme=default" />
+   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeraych" />
 </p>
 
 ---
